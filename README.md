@@ -109,7 +109,7 @@
 <td valign="top" width="612">Salakhutdinov, R. R. and Hinton, G. E.<br /><strong>A Better Way to Pretrain Deep Boltzmann Machines</strong><br />Advances in Neural Information Processing 25, MIT Press, Cambridge, MA [<a href="DBM_pretrain.pdf" data-smd-id="s36">pdf</a>]</td>
 </tr>
 <tr>
-<td valign="top" width="612">Hinton, G. E., Srivastava, N., Krizhevsky, A., Sutskever, I. and Salakhutdinov, R. R.<br /><strong>Improving neural networks by preventing co-adaptation of feature detectors</strong><br />http://arxiv.org/abs/1207.0580 [<a href="dropout.pdf" data-smd-id="s37">pdf</a>]</td>
+<td valign="top" width="612">Hinton, G. E., Srivastava, N., Krizhevsky, A., Sutskever, I. and Salakhutdinov, R. R.<br /><strong>Improving neural networks by preventing co-adaptation of feature detectors</strong>&nbsp;[<a href="dropout.pdf" data-smd-id="s37">pdf</a>]</td>
 </tr>
 <tr>
 <td valign="top" width="612">Geoffrey Hinton, Li Deng, Dong Yu, George Dahl, Abdel-rahman Mohamed, Navdeep Jaitly, Andrew Senior, Vincent Vanhoucke, Patrick Nguyen, Tara Sainath, and Brian Kingsbury<br /><strong>Deep Neural Networks for Acoustic Modeling in Speech Recognition</strong><br />IEEE Signal Processing Magazine, November 2012 (in press) [<a href="DNN-2012-proof.pdf" data-smd-id="s38">pdf</a>]</td>
@@ -329,9 +329,6 @@
 </tr>
 <tr>
 <td valign="top" width="512">Mnih, A. and Hinton. G. E.<br /><strong>Learning Unreliable Constraints using Contrastive Divergence.</strong><br />In IJCNN 2005, Montreal [<a href="ijcnn_constraints.pdf" data-smd-id="s124">pdf</a>]</td>
-</tr>
-<tr>
-<td valign="top" width="512">Memisevic, R. and Hinton, G. E.<br /><strong>Improving dimensionality reduction with spectral gradient descent.</strong><br />Neural Networks, 18, pp 702-710. [<a href="http://authors.elsevier.com/sd/article/S0893608005001310" data-smd-id="s125">online version</a>]</td>
 </tr>
 <tr>
 <td valign="top" width="512">Carreira-Perpignan, M. A. and Hinton. G. E.<br /><strong>On Contrastive Divergence Learning.</strong><br />In: Artificial Intelligence and Statistics, 2005, Barbados [<a href="cdmiguel.pdf" data-smd-id="s126">pdf</a>]</td>
