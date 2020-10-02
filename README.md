@@ -76,7 +76,7 @@
 <td valign="top" width="612">Jaitly, N., Vanhoucke, V. and Hinton, G. E.<br /><strong>Autoregressive product of multi-frame predictions can improve the accuracy of hybrid models.</strong><br />Fifteenth Annual Conference of the International Speech Communication Association}. [<a href="multiframe.pdf" data-smd-id="s25">pdf</a>]</td>
 </tr>
 <tr>
-<td valign="top" width="612">Srivastava, N., Salakhutdinov, R. R. and Hinton, G. E.<br /><strong>Modeling Documents with a Deep Boltzmann Machine</strong><br />In Uncertainty in Artificial Intelligence (UAI 2013) [<a href=".pdf" data-smd-id="s26">pdf</a>]</td>
+<td valign="top" width="612">Srivastava, N., Salakhutdinov, R. R. and Hinton, G. E.<br /><strong>Modeling Documents with a Deep Boltzmann Machine</strong><br />In Uncertainty in Artificial Intelligence (UAI 2013) [<a href="uai13.pdf" data-smd-id="s26">pdf</a>]</td>
 </tr>
 <tr>
 <td valign="top" width="612">Jaitly, N., and Hinton, G. E.<br /><strong>Vocal Tract Length Perturbation (VTLP) improves speech recognition.</strong><br />Proc. ICML 2013 Workshop on Deep Learning for Audio,Speech and Language Processing}, Atlanta, USA. [<a href="perturb.pdf" data-smd-id="s27">pdf</a>]</td>
@@ -169,7 +169,7 @@
 <td valign="top" width="612">Sarikaya, R. and Hinton, G.<br /><strong>Deep Belief Nets for Natural Language Call-Routing.</strong><br />ICASSP-2011 [<a href="callrouting.pdf" data-smd-id="s56">pdf</a>]</td>
 </tr>
 <tr>
-<td valign="top" width="612">Hinton, G. E. and Salakhutdinov, R.<br /><strong>Discovering Binary Codes for Fast Document Retrieval by Learning Deep Generative Models.</strong><br />Topics in Cognitive Science, Vol 3, pp 74-91. [<a href="topicshashing.pdf" data-smd-id="s57">pdf coming soon</a>]</td>
+<td valign="top" width="612">Hinton, G. E. and Salakhutdinov, R.<br /><strong>Discovering Binary Codes for Fast Document Retrieval by Learning Deep Generative Models.</strong><br />Topics in Cognitive Science, Vol 3, pp 74-91. [<a href="topicshashing.pdf" data-smd-id="s57">pdf</a>]</td>
 </tr>
 <tr>
 <td valign="top" width="612">Memisevic, R., Zach, C., Pollefeys, M. and Hinton, G. E.<br /><strong>Gated Softmax Classification.</strong><br />Advances in Neural Information Processing 23, MIT Press, Cambridge, MA [<a href="gatedsoftmax.pdf" data-smd-id="s58">pdf</a>]</td>
@@ -197,9 +197,6 @@
 </tr>
 <tr>
 <td valign="top" width="612">Mnih, V. and Hinton, G. E.<br /><strong>Learning to detect roads in high-resolution aerial images.</strong><br />European Conference on Computer Vision. [<a href="road_detection.pdf" data-smd-id="s66">pdf</a>]</td>
-</tr>
-<tr>
-<td valign="top" width="612">Sutskever, I. and Hinton, G. E.<br /><strong>Temporal Kernel Recurrent Neural Networks.</strong><br />Neural Networks, Vol 23, pp 239-243. [<a href="http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6T08-4XMD5HV-2&amp;_user=994540&amp;_coverDate=03%2F31%2F2010&amp;_rdoc=1&amp;_fmt=high&amp;_orig=search&amp;_sort=d&amp;_docanchor=&amp;view=c&amp;_acct=C000050024&amp;_version=1&amp;_urlVersion=0&amp;_userid=994540&amp;md5=9b78a6369ae8a8bdbdca443c8277de76" data-smd-id="s67">online text</a>]</td>
 </tr>
 <tr>
 <td valign="top" width="612">Ranzato, M. and Hinton, G. E.<br /><strong>Modeling pixel means and covariances using factored third-order Boltzmann machines.</strong><br />IEEE Conference on Computer Vision and Pattern Recognition. [<a href="ranzato_cvpr2010.pdf" data-smd-id="s68">pdf</a>]</td>
@@ -259,7 +256,7 @@
 <td valign="top" width="512">Schmah, T., Hinton, G.~E., Zemel, R., Small, S. and Strother, S.<br /><strong>Generative versus Discriminative Training of RBM's for classification of fMRI images.</strong><br />Advances in Neural Information Processing Systems 21, MIT Press, Cambridge, MA<br />[<a href="fmrinips.pdf" data-smd-id="s86">pdf</a>]</td>
 </tr>
 <tr>
-<td valign="top" width="612">van der Maaten, L. J. P. and Hinton, G. E.<br /><strong>Visualizing Data using t-SNE.</strong><br />Journal of Machine Learning Research, Vol 9, (Nov) pp 2579-2605.<br />[<a href="tsnefinal.pdf" data-smd-id="s87">pdf</a>] [<a href="tsnefinalsupplement.pdf" data-smd-id="s88">supplementary material in pdf (25MB)</a>]</td>
+<td valign="top" width="612">van der Maaten, L. J. P. and Hinton, G. E.<br /><strong>Visualizing Data using t-SNE.</strong><br />Journal of Machine Learning Research, Vol 9, (Nov) pp 2579-2605.<br />[<a href="tsnefinal.pdf" data-smd-id="s87">pdf</a>] [<a href="tsnefinalsupplement.pdf" data-smd-id="s88">supplementary material in pdf</a>]</td>
 </tr>
 <tr>
 <td valign="top" width="512">Susskind, J.M., Hinton, G.~E., Movellan, J.R., and Anderson, A.K.<br /><strong>Generating Facial Expressions with Deep Belief Nets.</strong><br />In V. Kordic (ed.) Affective Computing, Emotion Modelling, Synthesis and Recognition. ARS Publishers.<br />[<a href="joshfacechapter.pdf" data-smd-id="s89">pdf</a>]</td>
@@ -349,9 +346,6 @@
 <td valign="top" width="512">Welling, M,, Rosen-Zvi, M. and Hinton, G. E.<br /><strong>Exponential Family Harmoniums with an Application to Information Retrieval.</strong><br />Advances in Neural Information Processing Systems, 17, MIT Press, Cambridge, MA [<a href="maxharmonium.pdf" data-smd-id="s131">pdf</a>]</td>
 </tr>
 <tr>
-<td valign="top" width="512">Sallans, B and Hinton, G. E.<br /><strong>Reinforcement Learning with Factored States and Actions.</strong><br />[<a href="sallans04a.pdf" data-smd-id="s132">Journal of Machine Learning Research, Vol 5 (Aug)</a>] pp 1063--1088.</td>
-</tr>
-<tr>
 <td valign="top" width="512">Bishop, C. M. Svensen, M. and Hinton, G. E.<br /><strong>Distinguishing Text from Graphics in On-line Handwritten Ink.</strong><br />In Kimura, F. and Fujisawa, H. (eds.), Proceedings Ninth International Workshop on Frontiers in Handwriting Recognition, IWFHR-9, Tokyo, Japan, pp. 142-147. [<a href="textorgraphics.pdf" data-smd-id="s133">pdf</a>]</td>
 </tr>
 <tr>
@@ -391,7 +385,7 @@
 <td valign="top" width="512">Paccanaro, A., and Hinton, G. E.<br /><strong>Learning Hierarchical Structures with Linear Relational Embedding.</strong><br />Advances in Neural Information Processing Systems, 14, MIT Press, Cambridge, MA<br />[<a href="nipsLRE.pdf" data-smd-id="s153">pdf</a>]</td>
 </tr>
 <tr>
-<td valign="top" width="512">Roweis, S., Saul, L. and Hinton, G. E.<br /><strong>Global Coordination of Local Linear Models</strong><br />Advances in Neural Information Processing Systems, 14, MIT Press, Cambridge, MA<br />[<a href="globalcoord.ps.gz" data-smd-id="s156">.ps.gz</a>] [<a href="globalcoord.pdf" data-smd-id="s157">pdf</a>]</td>
+<td valign="top" width="512">Roweis, S., Saul, L. and Hinton, G. E.<br /><strong>Global Coordination of Local Linear Models</strong><br />Advances in Neural Information Processing Systems, 14, MIT Press, Cambridge, MA [<a href="globalcoord.pdf" data-smd-id="s157">pdf</a>]</td>
 </tr>
 <tr>
 <td valign="top" width="512">Oore, S., Terzopoulos, D. and Hinton, G. E.<br /><strong>A Desktop Input Device and Interface for Interactive 3D Character Animation.</strong><br />Graphics Interface. [<a href="oore-terzopoulos-hinton-2002a.pdf" data-smd-id="s158">pdf</a>]</td>
@@ -457,16 +451,10 @@
 <td valign="top" width="512">Hinton, G.E.<br /><strong>Supervised learning in multilayer neural networks</strong><br />in The MIT Encyclopedia of the Cognitive Sciences<br />Editors: Robert A. Wilson and Frank C. Keil<br />The MIT Press. [<a href="slmnn.pdf" data-smd-id="s208">pdf</a>]</td>
 </tr>
 <tr>
-<td valign="top" width="512">Hinton, G.E<br /><strong>Training products of experts by maximizing contrastive likelihood</strong><br />Technical Report:&nbsp; GCNU TR1999-001<br />[ See updated version above,&nbsp;<a href="tr00-004.html" data-smd-id="s209">GCNU TR 2000-004</a>]</td>
-</tr>
-<tr>
 <td valign="top" width="512">Hinton, G.E.<br /><strong>Products of experts</strong><br />Proceedings of the Ninth International Conference on Artificial Neural Networks [ICANN 99 Vol 1&nbsp; pages 1-6]. [<a href="icann-99.pdf" data-smd-id="s212">pdf</a>]</td>
 </tr>
 <tr>
 <td valign="top" width="512">Ghahramani, Z., Korenberg, A.T. and Hinton, G.E.<br /><strong>Scaling in a hierarchical unsupervised network.</strong><br /> [<a href="scaling.pdf" data-smd-id="s215">pdf</a>]<br />Proceedings of the Ninth International Conference on Artificial Neural Networks [ICANN 99, Vol 1 pages 13-18]</td>
-</tr>
-<tr>
-<td valign="top" width="512">Hinton, G.E., and T. Sejnowski (eds)<br /><a href="http://mitpress.mit.edu/book-table-of-contents.tcl?isbn=026258168X" data-smd-id="s216">Unsupervised Learning</a>:&nbsp; Foundations of Neural Computation<br />June 1999,&nbsp; MIT Press</td>
 </tr>
 <tr>
 <td valign="top" width="512">Frey, B.J., Hinton, G.E.<br /><strong>Variational learning in nonlinear gaussian belief networks</strong><br /> [<a href="nlgbn.pdf" data-smd-id="s219">pdf</a>]<br />Neural computation&nbsp; 11:1, 193-214</td>
@@ -544,7 +532,7 @@
 <td valign="top" width="512">Revow, M., Williams, C. K. I. and Hinton, G. E.<br /><strong>Using Generative Models for Handwritten Digit Recognition.</strong><br />IEEE Transactions on Pattern Analysis and Machine Intelligence,18, 592-606.<br /> [<a href="pamirevow.pdf" data-smd-id="s287">pdf</a>]</td>
 </tr>
 <tr>
-<td valign="top" width="512">Hinton, G. E., Revow, M. and Dayan P.<br /><strong>Recognizing handwritten digits using mixtures of linear models.</strong><a href="pancake.html" data-smd-id="s289"><br /></a> &nbsp; [<a href="pancake.pdf" data-smd-id="s293">pdf</a>]<br />Advances in Neural Information Processing Systems 7. G. Tesauro, D. S. Touretzky and T. K. Leen (Eds), pp 1015-1022 MIT Press, Cambridge MA.</td>
+<td valign="top" width="512">Hinton, G. E., Revow, M. and Dayan P.<br /><strong>Recognizing handwritten digits using mixtures of linear models.&nbsp;</strong>[<a href="pancake.pdf" data-smd-id="s293">pdf</a>]<br />Advances in Neural Information Processing Systems 7. G. Tesauro, D. S. Touretzky and T. K. Leen (Eds), pp 1015-1022 MIT Press, Cambridge MA.</td>
 </tr>
 <tr>
 <td valign="top" width="512">Williams, C. K. I., Hinton, G. E. and Revow, M.<br /><strong>Using a neural net to instantiate a deformable model.</strong><br /> [<a href="nips-ckiw.pdf" data-smd-id="s296">pdf</a>]<br />Advances in Neural Information Processing Systems 7. G. Tesauro, D. S. Touretzky and T. K. Leen (Eds), pp 965-972 MIT Press, Cambridge MA.</td>
