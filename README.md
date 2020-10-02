@@ -1,3 +1,137 @@
+<table class="infobox biography vcard">
+<tbody>
+<tr>
+<th colspan="2">
+<div class="fn">Geoffrey Hinton</div>
+<br />
+<div class="honorific-suffix"><span class="noexcerpt nowraplinks"><a title="Order of Canada" href="https://en.wikipedia.org/wiki/Order_of_Canada">CC</a>&nbsp;<a title="Fellow of the Royal Society" href="https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society">FRS</a>&nbsp;<a title="Fellow of the Royal Society of Canada" href="https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society_of_Canada">FRSC</a></span></div>
+</th>
+</tr>
+<tr>
+<td colspan="2"><a class="image" href="https://en.wikipedia.org/wiki/File:Geoffrey_Hinton_at_UBC.jpg"><img src="220px-Geoffrey_Hinton_at_UBC.jpg" srcset="220px-Geoffrey_Hinton_at_UBC.jpg" alt="Geoffrey Hinton at UBC.jpg" width="220" height="294" data-file-width="1167" data-file-height="1561" /></a>
+<div>Hinton in 2013</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td>
+<div class="nickname">Geoffrey Everest Hinton</div>
+<br />6 December 1947<span class="noprint ForceAgeToShow">&nbsp;(age&nbsp;72)</span><br />
+<div class="birthplace"><a title="Wimbledon, London" href="https://en.wikipedia.org/wiki/Wimbledon,_London">Wimbledon, London</a></div>
+</td>
+</tr>
+<tr>
+<th scope="row">Alma&nbsp;mater</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a title="University of Cambridge" href="https://en.wikipedia.org/wiki/University_of_Cambridge">University of Cambridge</a>&nbsp;(BA)</li>
+<li><a title="University of Edinburgh" href="https://en.wikipedia.org/wiki/University_of_Edinburgh">University of Edinburgh</a>&nbsp;(PhD)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Known&nbsp;for</th>
+<td>
+<div class="plainlist">
+<ul>
+<li>Applications of&nbsp;<a title="Backpropagation" href="https://en.wikipedia.org/wiki/Backpropagation">Backpropagation</a></li>
+<li><a title="Boltzmann machine" href="https://en.wikipedia.org/wiki/Boltzmann_machine">Boltzmann machine</a></li>
+<li><a title="Deep learning" href="https://en.wikipedia.org/wiki/Deep_learning">Deep learning</a></li>
+<li><a title="Capsule neural network" href="https://en.wikipedia.org/wiki/Capsule_neural_network">Capsule neural network</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Awards</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a title="AAAI Fellow" href="https://en.wikipedia.org/wiki/AAAI_Fellow">AAAI Fellow</a>&nbsp;(1990)</li>
+<li><a title="Rumelhart Prize" href="https://en.wikipedia.org/wiki/Rumelhart_Prize">Rumelhart Prize</a>&nbsp;(2001)</li>
+<li><a title="IJCAI Award for Research Excellence" href="https://en.wikipedia.org/wiki/IJCAI_Award_for_Research_Excellence">IJCAI Award for Research Excellence</a>&nbsp;(2005)</li>
+<li><a title="IEEE Frank Rosenblatt Award" href="https://en.wikipedia.org/wiki/IEEE_Frank_Rosenblatt_Award">IEEE Frank Rosenblatt Award</a>&nbsp;(2014)</li>
+<li><a title="IEEE/RSE James Clerk Maxwell Medal" href="https://en.wikipedia.org/wiki/IEEE/RSE_James_Clerk_Maxwell_Medal">James Clerk Maxwell Medal</a>&nbsp;(2016)</li>
+<li><a class="mw-redirect" title="BBVA Foundation Frontiers of Knowledge Award" href="https://en.wikipedia.org/wiki/BBVA_Foundation_Frontiers_of_Knowledge_Award">BBVA Foundation Frontiers of Knowledge Award</a>&nbsp;(2016)</li>
+<li><a title="Turing Award" href="https://en.wikipedia.org/wiki/Turing_Award">Turing Award</a>&nbsp;(2018)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2"><strong>Scientific career</strong></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category">
+<div class="plainlist">
+<ul>
+<li><a title="Machine learning" href="https://en.wikipedia.org/wiki/Machine_learning">Machine learning</a></li>
+<li><a title="Neural network" href="https://en.wikipedia.org/wiki/Neural_network">Neural networks</a></li>
+<li><a title="Artificial intelligence" href="https://en.wikipedia.org/wiki/Artificial_intelligence">Artificial intelligence</a></li>
+<li><a title="Cognitive science" href="https://en.wikipedia.org/wiki/Cognitive_science">Cognitive science</a></li>
+<li><a class="mw-redirect" title="Object recognition" href="https://en.wikipedia.org/wiki/Object_recognition">Object recognition</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a title="University of Toronto" href="https://en.wikipedia.org/wiki/University_of_Toronto">University of Toronto</a><br /><a title="Google" href="https://en.wikipedia.org/wiki/Google">Google</a><br /><a title="Carnegie Mellon University" href="https://en.wikipedia.org/wiki/Carnegie_Mellon_University">Carnegie Mellon University</a><br /><a title="University College London" href="https://en.wikipedia.org/wiki/University_College_London">University College London</a><br /><a title="University of California, San Diego" href="https://en.wikipedia.org/wiki/University_of_California,_San_Diego">University of California, San Diego</a></td>
+</tr>
+<tr>
+<th scope="row"><a title="Thesis" href="https://en.wikipedia.org/wiki/Thesis">Thesis</a></th>
+<td><a class="external text" href="http://hdl.handle.net/1842/8121" rel="nofollow"><em>Relaxation and its role in vision</em></a>&nbsp;(1977)</td>
+</tr>
+<tr>
+<th scope="row"><a title="Doctoral advisor" href="https://en.wikipedia.org/wiki/Doctoral_advisor">Doctoral advisor</a></th>
+<td><a class="mw-redirect" title="H. Christopher Longuet-Higgins" href="https://en.wikipedia.org/wiki/H._Christopher_Longuet-Higgins">Christopher Longuet-Higgins</a><sup id="cite_ref-5" class="reference"></sup></td>
+</tr>
+<tr>
+<th scope="row">Doctoral students</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a title="Richard Zemel" href="https://en.wikipedia.org/wiki/Richard_Zemel">Richard Zemel</a></li>
+<li><a title="Brendan Frey" href="https://en.wikipedia.org/wiki/Brendan_Frey">Brendan Frey</a></li>
+<li><a title="Radford M. Neal" href="https://en.wikipedia.org/wiki/Radford_M._Neal">Radford M. Neal</a></li>
+<li><a class="mw-redirect" title="Ruslan Salakhutdinov" href="https://en.wikipedia.org/wiki/Ruslan_Salakhutdinov">Ruslan Salakhutdinov</a></li>
+<li><a title="Ilya Sutskever" href="https://en.wikipedia.org/wiki/Ilya_Sutskever">Ilya Sutskever</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Other&nbsp;notable students</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a title="Yann LeCun" href="https://en.wikipedia.org/wiki/Yann_LeCun">Yann LeCun</a>&nbsp;(<a title="Postdoctoral researcher" href="https://en.wikipedia.org/wiki/Postdoctoral_researcher">postdoc</a>)</li>
+<li><a title="Peter Dayan" href="https://en.wikipedia.org/wiki/Peter_Dayan">Peter Dayan</a>&nbsp;(<a title="Postdoctoral researcher" href="https://en.wikipedia.org/wiki/Postdoctoral_researcher">postdoc</a>)</li>
+<li><a title="Zoubin Ghahramani" href="https://en.wikipedia.org/wiki/Zoubin_Ghahramani">Zoubin Ghahramani</a>&nbsp;(<a title="Postdoctoral researcher" href="https://en.wikipedia.org/wiki/Postdoctoral_researcher">postdoc</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><span class="url"><a class="external text" href="http://www.cs.toronto.edu/~hinton/" rel="nofollow">www<wbr />.cs<wbr />.toronto<wbr />.edu<wbr />/~hinton<wbr />/</a></span></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<p><strong>Geoffrey Everest Hinton</strong>&nbsp;<span class="noexcerpt nowraplinks"><a title="Order of Canada" href="https://en.wikipedia.org/wiki/Order_of_Canada">CC</a>&nbsp;<a title="Fellow of the Royal Society" href="https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society">FRS</a>&nbsp;<a title="Fellow of the Royal Society of Canada" href="https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society_of_Canada">FRSC</a></span>&nbsp;(born 6 December 1947) is an&nbsp;<a title="English Canadians" href="https://en.wikipedia.org/wiki/English_Canadians">English Canadian</a>&nbsp;<a title="Cognitive psychology" href="https://en.wikipedia.org/wiki/Cognitive_psychology">cognitive psychologist</a>&nbsp;and&nbsp;<a title="Computer science" href="https://en.wikipedia.org/wiki/Computer_science">computer scientist</a>, most noted for his work on&nbsp;<a class="mw-redirect" title="" href="https://en.wikipedia.org/wiki/Artificial_neural_networks">artificial neural networks</a>. Since 2013 he divides his time working for&nbsp;<a title="Google" href="https://en.wikipedia.org/wiki/Google">Google</a>&nbsp;(<a title="Google Brain" href="https://en.wikipedia.org/wiki/Google_Brain">Google Brain</a>) and the&nbsp;<a title="University of Toronto" href="https://en.wikipedia.org/wiki/University_of_Toronto">University of Toronto</a>. In 2017, he cofounded and became the Chief Scientific Advisor of the Vector Institute in Toronto.<sup id="cite_ref-13" class="reference"></sup></p>
+<p>With&nbsp;<a title="David Rumelhart" href="https://en.wikipedia.org/wiki/David_Rumelhart">David Rumelhart</a>&nbsp;and&nbsp;<a title="Ronald J. Williams" href="https://en.wikipedia.org/wiki/Ronald_J._Williams">Ronald J. Williams</a>, Hinton was co-author of a highly cited paper published in 1986 that popularized the&nbsp;<a title="Backpropagation" href="https://en.wikipedia.org/wiki/Backpropagation">backpropagation</a>&nbsp;algorithm for training multi-layer neural networks,&nbsp;although they were not the first to propose the approach.&nbsp;Hinton is viewed by some as a leading figure in the&nbsp;<a title="Deep learning" href="https://en.wikipedia.org/wiki/Deep_learning">deep learning</a>&nbsp;community and is referred to by some as the "Godfather of Deep Learning".&nbsp;The dramatic image-recognition milestone of the&nbsp;<a title="AlexNet" href="https://en.wikipedia.org/wiki/AlexNet">AlexNet</a>&nbsp;designed by his student&nbsp;<a class="mw-redirect" title="Alex Krizhevsky" href="https://en.wikipedia.org/wiki/Alex_Krizhevsky">Alex Krizhevsky</a>&nbsp;for the&nbsp;<a class="mw-redirect" title="ImageNet challenge" href="https://en.wikipedia.org/wiki/ImageNet_challenge">ImageNet challenge</a>&nbsp;2012&nbsp;helped to revolutionize the field of computer vision.&nbsp;Hinton was awarded the 2018&nbsp;<a title="Turing Award" href="https://en.wikipedia.org/wiki/Turing_Award">Turing Award</a>&nbsp;alongside&nbsp;<a title="Yoshua Bengio" href="https://en.wikipedia.org/wiki/Yoshua_Bengio">Yoshua Bengio</a>&nbsp;and&nbsp;<a title="Yann LeCun" href="https://en.wikipedia.org/wiki/Yann_LeCun">Yann LeCun</a>&nbsp;for their work on deep learning.</p>
+<p>Hinton&mdash;together with&nbsp;<a title="Yoshua Bengio" href="https://en.wikipedia.org/wiki/Yoshua_Bengio">Yoshua Bengio</a>&nbsp;and&nbsp;<a title="Yann LeCun" href="https://en.wikipedia.org/wiki/Yann_LeCun">Yann LeCun</a>&mdash;are referred to by some as the "Godfathers of AI" and "Godfathers of Deep Learning".</p>
+
+
+</br>
+
+
+
 <table border="0" width="889" cellspacing="0" cellpadding="7">
 <tbody>
 <tr>
