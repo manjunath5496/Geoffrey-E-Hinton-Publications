@@ -492,7 +492,7 @@
 <td valign="top" width="512">Hinton, G. E. and Roweis, S.<br /><strong>Stochastic Neighbor Embedding.</strong><br />Advances in Neural Information Processing Systems, 15, MIT Press, Cambridge, MA<br /> [<a href="sne.pdf" data-smd-id="s141">pdf</a>]</td>
 </tr>
 <tr>
-<td valign="top" width="512">Welling, M., Zemel, R. S., and Hinton, G. E.<br /><strong>Efficient parametric projection pursuit density estimation.</strong><br />In: UAI-2003: 19th Conference on Uncertainty in Artificial Intelligence.</td>
+<td valign="top" width="512">Welling, M., Zemel, R. S., and Hinton, G. E.<br /><strong>Efficient parametric projection pursuit density estimation.</strong><br />In: UAI-2003: 19th Conference on Uncertainty in Artificial Intelligence.<br /> [<a href="sne549.pdf" data-smd-id="s141">pdf</a>]</td>
 </tr>
 <tr>
 <td valign="top" width="512">Welling, M., Zemel, R. and Hinton, G. E.<br /><strong>Self-Supervised Boosting.</strong><br />Advances in Neural Information Processing Systems, 15, MIT Press, Cambridge, MA<br />[<a href="UboostNips.pdf" data-smd-id="s143">pdf</a>]</td>
